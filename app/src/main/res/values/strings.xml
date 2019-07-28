@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FireApp</string>
+    <string name="card_1_text">Favorites</string>
+    <string name="card_2_text">Balance</string>
+    <string name="card_3_text">Cloud Storage</string>
+    <string name="card_4_text">Audio Playlist</string>
+    <string name="card_5_text">Security</string>
+    <string name="card_6_text">Settings</string>
+</resources>
